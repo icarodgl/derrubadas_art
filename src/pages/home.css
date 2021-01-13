@@ -1,6 +1,9 @@
 #imagem {
   padding: 1px;
 }
+.row {
+  margin-top: 50px;
+}
 
 /* #imagem:hover {
   opacity: 0.2;

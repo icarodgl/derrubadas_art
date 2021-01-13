@@ -1,15 +1,11 @@
 import React from "react";
-import {
-  BrowserRouter as Router,
-  Switch,
-  Route,
-} from "react-router-dom";
-import {About, Home} from './pages/index'
+import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
+import { About, Home } from "./pages/index";
 
 export default function App() {
   return (
     <Router>
-      <div class="container">
+      <div>
         <Switch>
           <Route path="/about">
             <About />
@@ -22,4 +18,3 @@ export default function App() {
     </Router>
   );
 }
-
