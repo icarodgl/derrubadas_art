@@ -8,14 +8,13 @@ import oliver_F from "../assets/oliver/oliver_F.png";
 import oliver_V from "../assets/oliver/oliver_V.png";
 
 const imagens = [
-  ap_F,
-  ap_V,
-  ana_F,
-  ana_V,
-  dionatam_F,
-  dionatam_V,
-  oliver_F,
-  oliver_V,
+  { f: ap_F, v: ap_V },
+  { f: ana_F, v: ana_V },
+  { f: dionatam_F, v: dionatam_V },
+  {
+    f: oliver_F,
+    v: oliver_V,
+  },
 ];
 
 export default imagens;

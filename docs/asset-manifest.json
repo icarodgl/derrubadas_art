@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/derrubadas_art/static/css/main.7d1b7da5.chunk.css",
-    "main.js": "/derrubadas_art/static/js/main.37266ae0.chunk.js",
-    "main.js.map": "/derrubadas_art/static/js/main.37266ae0.chunk.js.map",
+    "main.css": "/derrubadas_art/static/css/main.971a33aa.chunk.css",
+    "main.js": "/derrubadas_art/static/js/main.40c91b23.chunk.js",
+    "main.js.map": "/derrubadas_art/static/js/main.40c91b23.chunk.js.map",
     "runtime-main.js": "/derrubadas_art/static/js/runtime-main.4d0c56d8.js",
     "runtime-main.js.map": "/derrubadas_art/static/js/runtime-main.4d0c56d8.js.map",
     "static/js/2.a62ccfc5.chunk.js": "/derrubadas_art/static/js/2.a62ccfc5.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.c58c2e53.chunk.js": "/derrubadas_art/static/js/3.c58c2e53.chunk.js",
     "static/js/3.c58c2e53.chunk.js.map": "/derrubadas_art/static/js/3.c58c2e53.chunk.js.map",
     "index.html": "/derrubadas_art/index.html",
-    "static/css/main.7d1b7da5.chunk.css.map": "/derrubadas_art/static/css/main.7d1b7da5.chunk.css.map",
+    "static/css/main.971a33aa.chunk.css.map": "/derrubadas_art/static/css/main.971a33aa.chunk.css.map",
     "static/js/2.a62ccfc5.chunk.js.LICENSE.txt": "/derrubadas_art/static/js/2.a62ccfc5.chunk.js.LICENSE.txt",
     "static/media/ana_F.a68d9e85.png": "/derrubadas_art/static/media/ana_F.a68d9e85.png",
     "static/media/ana_V.33ffcdd8.png": "/derrubadas_art/static/media/ana_V.33ffcdd8.png",
@@ -24,7 +24,7 @@
   "entrypoints": [
     "static/js/runtime-main.4d0c56d8.js",
     "static/js/2.a62ccfc5.chunk.js",
-    "static/css/main.7d1b7da5.chunk.css",
-    "static/js/main.37266ae0.chunk.js"
+    "static/css/main.971a33aa.chunk.css",
+    "static/js/main.40c91b23.chunk.js"
   ]
 }
