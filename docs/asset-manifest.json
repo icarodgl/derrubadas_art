@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/derrubadas_art/static/css/main.e669ff66.chunk.css",
-    "main.js": "/derrubadas_art/static/js/main.4b2a85ce.chunk.js",
-    "main.js.map": "/derrubadas_art/static/js/main.4b2a85ce.chunk.js.map",
+    "main.js": "/derrubadas_art/static/js/main.30992f03.chunk.js",
+    "main.js.map": "/derrubadas_art/static/js/main.30992f03.chunk.js.map",
     "runtime-main.js": "/derrubadas_art/static/js/runtime-main.4d0c56d8.js",
     "runtime-main.js.map": "/derrubadas_art/static/js/runtime-main.4d0c56d8.js.map",
     "static/js/2.a62ccfc5.chunk.js": "/derrubadas_art/static/js/2.a62ccfc5.chunk.js",
@@ -14,8 +14,8 @@
     "static/js/2.a62ccfc5.chunk.js.LICENSE.txt": "/derrubadas_art/static/js/2.a62ccfc5.chunk.js.LICENSE.txt",
     "static/media/ana_F.28775129.png": "/derrubadas_art/static/media/ana_F.28775129.png",
     "static/media/ana_V.b2bbfe83.png": "/derrubadas_art/static/media/ana_V.b2bbfe83.png",
-    "static/media/ap_F.3104693f.png": "/derrubadas_art/static/media/ap_F.3104693f.png",
-    "static/media/ap_V.95961ab2.png": "/derrubadas_art/static/media/ap_V.95961ab2.png",
+    "static/media/ap_F.d1fd8a3b.png": "/derrubadas_art/static/media/ap_F.d1fd8a3b.png",
+    "static/media/ap_V.35a567db.png": "/derrubadas_art/static/media/ap_V.35a567db.png",
     "static/media/dionatam_F.1bb586cd.png": "/derrubadas_art/static/media/dionatam_F.1bb586cd.png",
     "static/media/dionatam_V.b1a33daf.png": "/derrubadas_art/static/media/dionatam_V.b1a33daf.png",
     "static/media/giulia_F.e7a9603e.png": "/derrubadas_art/static/media/giulia_F.e7a9603e.png",
@@ -41,6 +41,6 @@
     "static/js/runtime-main.4d0c56d8.js",
     "static/js/2.a62ccfc5.chunk.js",
     "static/css/main.e669ff66.chunk.css",
-    "static/js/main.4b2a85ce.chunk.js"
+    "static/js/main.30992f03.chunk.js"
   ]
 }
