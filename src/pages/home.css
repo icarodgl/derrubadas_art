@@ -1,0 +1,7 @@
+#imagem {
+  padding: 1px;
+}
+
+#imagem:hover {
+  opacity: 0.2;
+}
